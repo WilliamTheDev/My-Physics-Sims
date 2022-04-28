@@ -1,12 +1,10 @@
-import math
-
 #Calculating the pressure inside a camber with a piston acting upon it
 #By William
 
 ATM = 101.325 #KPA
-PistonMass = 35 #grams
-PistonArea = 53 #cm^2
-SpringForce = 50 #N
+PistonMass = 0 #grams
+PistonArea = 0 #cm^2
+SpringForce = 0 #N
 
 def PistonPressure():
     PS = SpringForce/(PistonArea*pow(10, -4))
