@@ -1,7 +1,7 @@
 import time
 
 startTime = time.time()
-Output = open() #I nsert the Txt file Location inside the brackets
+Output = open('\dragCo1.txt', 'W') #didn't work? Insert a txt file Location inside the brackets
 
 velocity = 0 # Meter per second 
 density = 1.225 # kg/m^3
