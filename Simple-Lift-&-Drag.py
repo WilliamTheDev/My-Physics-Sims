@@ -5,16 +5,16 @@
 # - Drag = 0.50 * Density * TotalSurfaceArea * Coefficient of lift * Velocity²
 
 # Wing Parameters
-WingSurfaceArea = 0.85 # Meters^2 (Wing Surface Area Only)
-WingSpan = 2.7 #Meters
-CoLift = 0.45 
+WingSurfaceArea = 0 # Meters^2 (Wing Surface Area Only)
+WingSpan = 0 #Meters
+CoLift = 0
 
 # Airplane Parameters 
-TotalSurfaceArea = 2 # Meters^2 (Surface Area of the fuselage, Tail and Wing)
-CoDrag = 0.09
+TotalSurfaceArea = 0 # Meters^2 (Surface Area of the fuselage, Tail and Wing)
+CoDrag = 0
 
 # Simulation Parameters 
-Velocity = 5 # Meters per second (Speed of the plane)
+Velocity = 0 # Meters per second (Speed of the plane)
 Density = 1.225 # kg/m^3 (Atmospheric pressure)
 
 def Lift(): # Lift Equation
