@@ -3,3 +3,4 @@ Only use these programs if you know the right answer to this question:
    If I accelerated that ladder to 66% of the speed of light will it fit or not??
    
 catch: only one door can be open at any moment.
+Message me your answer if you care: W!lliam#1570 
